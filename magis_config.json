@@ -45,10 +45,10 @@
       "app_open_id": "ca-app-pub-3940256099942544/9257395921"
     },
     "content_urls": {
-      "movies_url": "https://raw.githubusercontent.com/th3fouad1/xuper-data/refs/heads/main/movies.json",
-      "series_url": "https://raw.githubusercontent.com/th3fouad1/xuper-data/refs/heads/main/series.json",
-      "actors_url": "https://raw.githubusercontent.com/th3fouad1/xuper-data/refs/heads/main/actors.json",
-      "trending_url": "https://raw.githubusercontent.com/th3fouad1/xuper-data/refs/heads/main/trending.json"
+      "movies_url": "https://raw.githubusercontent.com/th3fouad1/magis-tv/refs/heads/main/movies.json",
+      "series_url": "https://raw.githubusercontent.com/th3fouad1/magis-tv/refs/heads/main/series.json",
+      "actors_url": "https://raw.githubusercontent.com/th3fouad1/magis-tv/refs/heads/main/actors.json",
+      "trending_url": "https://raw.githubusercontent.com/th3fouad1/magis-tv/refs/heads/main/trending.json"
     },
     "legal": {
       "privacy_policy_url": "https://sites.google.com/view/magistvprivacy",
