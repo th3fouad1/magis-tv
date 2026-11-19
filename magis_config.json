@@ -33,7 +33,7 @@
       "watch_now_blocked_countries": ["US", "IN"]
     },
     "ads": {
-      "show_ads": true,
+      "show_ads": false,
       "show_banner": true,
       "show_interstitial": true,
       "show_native": true,
